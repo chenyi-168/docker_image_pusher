@@ -2,3 +2,4 @@ whyour/qinglong:2.16.5
 anmour/bncr:latest
 hdbjlizhe/autman:latest
 v5star/rustdesk-api:latest
+xhofe/alist:latest
