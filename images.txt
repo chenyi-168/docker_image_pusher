@@ -4,3 +4,4 @@ hdbjlizhe/autman:latest
 v5star/rustdesk-api:latest
 xhofe/alist:latest
 xhofe/alist:latest
+docker
