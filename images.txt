@@ -5,3 +5,4 @@ v5star/rustdesk-api:latest
 xhofe/alist:latest
 xhofe/alist:latest
 docker
+whyour/qinglong:latest
