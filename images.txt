@@ -7,3 +7,4 @@ xhofe/alist:latest
 docker
 whyour/qinglong:latest
 hdbjlizhe/autman:latest
+hdbjlizhe/autman:latest
