@@ -1,2 +1,3 @@
 lukeer/elesign:latest
 whyour/qinglong:latest
+cloudflare/cloudflared:latest
