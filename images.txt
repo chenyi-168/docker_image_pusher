@@ -4,3 +4,4 @@ whyour/qinglong:latest
 cloudflare/cloudflared:latest
 luomubiji/ntqq:latest
 openlistteam/openlist:latest
+kennethreitz/httpbin:latest
