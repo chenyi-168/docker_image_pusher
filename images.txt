@@ -5,3 +5,4 @@ cloudflare/cloudflared:latest
 luomubiji/ntqq:latest
 openlistteam/openlist:latest
 kennethreitz/httpbin:latest
+budtmo/docker-android:emulator_14.0
