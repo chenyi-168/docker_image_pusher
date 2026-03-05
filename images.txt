@@ -1,1 +1,1 @@
-ghcr.io/engigu/baihu:latest
+calciumion/new-api:latest
