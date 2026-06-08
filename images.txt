@@ -1,1 +1,2 @@
 cloudflare/cloudflared:latest
+linzixuanzz/daidai-panel:latest
